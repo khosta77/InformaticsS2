@@ -1,0 +1,5 @@
+D:\С++ 2\Лаба 9 колбасить многоугольник\x64\Debug\Лаба 8.vcxprojAssemblyReference.cache
+D:\С++ 2\Лаба 9 колбасить многоугольник\x64\Debug\Лаба8.MyForm.resources
+D:\С++ 2\Лаба 9 колбасить многоугольник\x64\Debug\Лаба 8.vcxproj.GenerateResource.cache
+D:\С++ 2\Лаба 9 колбасить многоугольник\x64\Debug\Лаба 8.exe
+D:\С++ 2\Лаба 9 колбасить многоугольник\x64\Debug\Лаба 8.pdb

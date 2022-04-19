@@ -1,0 +1,6 @@
+D:\С++ 2\Анимация\Анимация\Debug\Анимация.vcxprojAssemblyReference.cache
+D:\С++ 2\Анимация\Анимация\Debug\Анимация.MyForm.resources
+D:\С++ 2\Анимация\Анимация\Debug\Анимация.vcxproj.GenerateResource.cache
+D:\Институт\2 семестр\С++\С++ CLR\Анимация\Анимация\Debug\Анимация.vcxprojAssemblyReference.cache
+D:\Институт\2 семестр\С++\С++ CLR\Анимация\Анимация\Debug\Анимация.MyForm.resources
+D:\Институт\2 семестр\С++\С++ CLR\Анимация\Анимация\Debug\Анимация.vcxproj.GenerateResource.cache

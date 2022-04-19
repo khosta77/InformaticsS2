@@ -1,0 +1,5 @@
+D:\С++ 2\Лаба 6 списки + save\x64\Debug\Лаба 3.vcxprojAssemblyReference.cache
+D:\С++ 2\Лаба 6 списки + save\x64\Debug\Лаба3.MyForm.resources
+D:\С++ 2\Лаба 6 списки + save\x64\Debug\Лаба 3.vcxproj.GenerateResource.cache
+D:\С++ 2\Лаба 6 списки + save\x64\Debug\Лаба 3.exe
+D:\С++ 2\Лаба 6 списки + save\x64\Debug\Лаба 3.pdb

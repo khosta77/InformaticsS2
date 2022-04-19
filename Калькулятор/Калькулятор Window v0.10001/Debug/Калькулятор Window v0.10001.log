@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Калькулятор Window v0.10001.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+D:\С++ 2\Калькулятор Window v0.10001\Калькулятор Window v0.10001\MyForm.h(778,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+D:\С++ 2\Калькулятор Window v0.10001\Калькулятор Window v0.10001\MyForm.h(778,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Калькулятор Window v0.10001.vcxproj -> D:\С++ 2\Калькулятор Window v0.10001\Debug\Калькулятор Window v1.exe

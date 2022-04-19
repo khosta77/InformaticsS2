@@ -1,0 +1,10 @@
+#pragma once
+
+enum State
+{
+	INPUT_STUDENT,
+	CHANGE_GRADE,
+	CHANGE_GRADE_2,
+	DELETE_BY_NAME,
+	DELETE_BY_NAME_2,
+};

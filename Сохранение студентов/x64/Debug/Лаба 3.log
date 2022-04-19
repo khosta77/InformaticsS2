@@ -1,0 +1,21 @@
+﻿  Main.cpp
+D:\С++ 2\Лаба 6 списки + save\MyList.h(126,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(398,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(477,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(478,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(479,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(485,11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(486,24): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(487,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.cpp
+D:\С++ 2\Лаба 6 списки + save\MyList.h(126,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(398,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(477,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(478,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(479,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(485,11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(486,24): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\С++ 2\Лаба 6 списки + save\MyForm.h(487,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  Main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Лаба 3.vcxproj -> D:\С++ 2\Лаба 6 списки + save\x64\Debug\Лаба 3.exe

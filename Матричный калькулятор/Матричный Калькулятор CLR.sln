@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Матричный Калькулятор CLR", "Матричный Калькулятор CLR\Матричный Калькулятор CLR.vcxproj", "{9459AD6E-09E9-4CA6-B701-9D95D183E696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Debug|x64.ActiveCfg = Debug|x64
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Debug|x64.Build.0 = Debug|x64
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Debug|x86.ActiveCfg = Debug|Win32
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Debug|x86.Build.0 = Debug|Win32
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Release|x64.ActiveCfg = Release|x64
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Release|x64.Build.0 = Release|x64
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Release|x86.ActiveCfg = Release|Win32
+		{9459AD6E-09E9-4CA6-B701-9D95D183E696}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4C0217-0863-46B5-A8AB-5792E2E72055}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Институт\2 семестр\С++\С++ CLR\График\График\Debug\График.vcxprojAssemblyReference.cache
+D:\Институт\2 семестр\С++\С++ CLR\График\График\Debug\График.MyForm.resources
+D:\Институт\2 семестр\С++\С++ CLR\График\График\Debug\График.vcxproj.GenerateResource.cache
+D:\С++ 2\График\График\Debug\График.vcxprojAssemblyReference.cache
+D:\С++ 2\График\График\Debug\График.MyForm.resources
+D:\С++ 2\График\График\Debug\График.vcxproj.GenerateResource.cache
